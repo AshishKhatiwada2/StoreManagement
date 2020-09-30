@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace StoreManagementTest.Data.Migrations
+namespace StoreManagement.Data.Migrations
 {
     public partial class CreateIdentitySchema : Migration
     {

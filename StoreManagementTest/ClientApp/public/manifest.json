@@ -1,6 +1,6 @@
 {
-  "short_name": "StoreManagementTest",
-  "name": "StoreManagementTest",
+  "short_name": "StoreManagement",
+  "name": "StoreManagement",
   "icons": [
     {
       "src": "favicon.ico",

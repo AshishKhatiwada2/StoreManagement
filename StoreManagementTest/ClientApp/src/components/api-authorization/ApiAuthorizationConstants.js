@@ -1,4 +1,4 @@
-export const ApplicationName = 'StoreManagementTest';
+export const ApplicationName = 'StoreManagement';
 
 export const QueryParameterNames = {
   ReturnUrl: 'returnUrl',

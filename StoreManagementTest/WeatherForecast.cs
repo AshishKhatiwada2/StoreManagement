@@ -1,6 +1,6 @@
 using System;
 
-namespace StoreManagementTest
+namespace StoreManagement
 {
     public class WeatherForecast
     {

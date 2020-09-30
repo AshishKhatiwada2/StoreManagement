@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
-namespace StoreManagementTest.Controllers
+namespace StoreManagement.Controllers
 {
     public class OidcConfigurationController : Controller
     {

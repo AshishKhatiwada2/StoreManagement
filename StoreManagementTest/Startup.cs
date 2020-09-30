@@ -6,13 +6,13 @@ using Microsoft.AspNetCore.Identity.UI;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.SpaServices.ReactDevelopmentServer;
 using Microsoft.EntityFrameworkCore;
-using StoreManagementTest.Data;
-using StoreManagementTest.Models;
+using StoreManagement.Data;
+using StoreManagement.Models;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
-namespace StoreManagementTest
+namespace StoreManagement
 {
     public class Startup
     {
